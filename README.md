@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Neethu S A</h1>
-<h3 align="center">A passionate mern stack deveveloper from Indiafrom India</h3>
+<h3 align="center">A passionate mern stack deveveloper from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
